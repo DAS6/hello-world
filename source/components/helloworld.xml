@@ -2,7 +2,7 @@
 <component name="HelloWorld" extends="Scene"> 
 	<children>
       <Label id="myLabel" 
-      	text="Hello World!"
+      	text="3 PPCLI Airborne"
       	width="1280" 
       	height="720" 
       	horizAlign="center"
@@ -35,3 +35,5 @@
 </script>
 <!-- End of BrightScript Portion -->
 </component>
+save
+
